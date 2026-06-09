@@ -12,7 +12,7 @@
 🌱 **Learning:** PyTorch, Deep Learning, MLOps  
 💡 **Interests:** Machine Learning, Computer Vision, Data Science  
 📍 **Location:** India  
-📫 **Reach me:** *(add your email or LinkedIn here)*
+📫 **Reach me:** parigupta31072006@gmail.com
 
 ---
 
